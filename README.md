@@ -1,5 +1,5 @@
-# design_bursts
-The repo for the Design Bursts taught between week 1-8
+# Design Bursts
+These are currently running on Wednesdays mornings before the start of the week's project for the duration of FAC14, weeks 1-8 in London.
 
 **What?**
 Half hour workshops/presentations every week to learn a little about one aspect of design, which can then be built on and included in that weeks project. 
