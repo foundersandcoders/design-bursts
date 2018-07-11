@@ -1,4 +1,6 @@
 # Design Bursts
+
+**When?**
 These are currently running on Wednesdays mornings before the start of the week's project for the duration of FAC14, weeks 1-8 in London.
 
 **What?**
