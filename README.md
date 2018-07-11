@@ -25,12 +25,12 @@ see also this [issue](https://github.com/foundersandcoders/master-reference/issu
 [Silde deck](https://docs.google.com/presentation/u/3/d/1Qus1BOmpF-3rMBiulsyUf0YVPgubFHzmH9tcu6wrc9A/edit?usp=sharing)
 
 Useful links:
-https://www.awwwards.com/4-creative-navigation-ui-patterns-for-great-ux.html
-http://patterntap.com/patterntap
-https://dribbble.com/
-https://www.awwwards.com/
-https://www.behance.net/
-https://codepen.com/
++ https://www.awwwards.com/4-creative-navigation-ui-patterns-for-great-ux.html
++ http://patterntap.com/patterntap
++ https://dribbble.com/
++ https://www.awwwards.com/
++ https://www.behance.net/
++ https://codepen.com/
 
 
 ## Week 2: Layout and Spacing
