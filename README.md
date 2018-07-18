@@ -37,19 +37,44 @@ Useful links:
 [Slide Deck](https://docs.google.com/presentation/d/1mbzmHJ8UFGosmjwJaxOSJl-PuaQtqxzJKKU4ExGWxrg/edit#slide=id.g3d4c4019a0_1_276)
 
 Useful links:
-Rule of thirds: 
+
++ Rule of thirds: 
 https://designmodo.com/rule-thirds-grid-outline/
 
-scanning patterns: 
++ scanning patterns: 
 https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/
 
-iOS guidelines UI do's and dont's!: https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/
++ iOS guidelines UI do's and dont's!: https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/
 
-material design:
++ material design:
 https://material.io/design/layout/spacing-methods.html#spacing
 
-geeking out even more on material design: 
++ geeking out even more on material design: 
 https://material.io/design/layout/understanding-layout.html#
 
-iOS guidelines:
++ iOS guidelines:
 https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/adaptivity-and-layout/
+
+## Week 3: Intro to Grids
+[Slide Deck](https://docs.google.com/presentation/d/11rIDhbzacs6AUFTVCiJd9f0Ud73TvM4Q9LScMVhctUY/edit?ts=5b4f0840#slide=id.g26a95a14fb_0_0)
+
+Some useful links for you!
+
++ Make an 8pt grid
+https://spec.fm/specifics/8-pt-grid
+
++ GRIDINATOR
+https://www.ecommercebestseo.com/resources/gridinator/
+
++ Brief history of the grid: 
+https://99designs.co.uk/blog/tips/history-of-the-grid-part-1/
+
++ A Comprehensive Introduction to Grids in Web Design:
+https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521
+
++ The Grid System: Building a Solid Design Layout
+https://www.interaction-design.org/literature/article/the-grid-system-building-a-solid-design-layout
+
++ The New Layout Standard For The Web: CSS Grid, Flexbox And Box Alignment
+https://www.smashingmagazine.com/2016/11/css-grids-flexbox-box-alignment-new-layout-standard/
+
