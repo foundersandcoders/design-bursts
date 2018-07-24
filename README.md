@@ -57,6 +57,7 @@ https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/
 
 ## Week 3: Intro to Grids
 [Watch the presentation in glorious technicolour!](https://vimeo.com/281249318)
+
 [Slide Deck](https://docs.google.com/presentation/d/11rIDhbzacs6AUFTVCiJd9f0Ud73TvM4Q9LScMVhctUY/edit?ts=5b4f0840#slide=id.g26a95a14fb_0_0)
 
 Some useful links for you!
