@@ -80,3 +80,10 @@ https://www.interaction-design.org/literature/article/the-grid-system-building-a
 + The New Layout Standard For The Web: CSS Grid, Flexbox And Box Alignment
 https://www.smashingmagazine.com/2016/11/css-grids-flexbox-box-alignment-new-layout-standard/
 
+## Week 4: Intro to UI Elements
+[Watch the presentation in glorious technicolour!](https://vimeo.com/282589418)
+
+[Slide Deck](https://docs.google.com/presentation/d/1f8ryxVIngpu4KMv8rr5domBiCGKfgC3r25TstZbnvcg/edit#slide=id.g26a95a14fb_0_0)
+
+## Week 5: ~ B R E A K ~ 
+
