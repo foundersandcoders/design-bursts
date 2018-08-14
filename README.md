@@ -87,3 +87,17 @@ https://www.smashingmagazine.com/2016/11/css-grids-flexbox-box-alignment-new-lay
 
 ## Week 5: ~ B R E A K ~ 
 
+## Week 6: Colour in UI
+
+[Slide Deck](https://docs.google.com/presentation/d/1xetApQbBIUhMZeG9zBUL0f5QOE249oPRqOEYhIGbeTo/edit)
+
+### Useful Links for Colour Visualisation
+
+ + [HSL Picker](http://hslpicker.com/#7000a8)
+ + [Coolors](https://coolors.co)
+ + [Khroma Generator](http://khroma.co/generator/)
+ + [Material UI Palette](https://www.materialpalette.com/)
+ + [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel/)
+ + [Hailpixel](https://color.hailpixel.com/)
+
+
