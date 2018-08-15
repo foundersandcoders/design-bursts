@@ -91,12 +91,6 @@ https://www.smashingmagazine.com/2016/11/css-grids-flexbox-box-alignment-new-lay
 
 [Slide Deck](https://docs.google.com/presentation/d/1xetApQbBIUhMZeG9zBUL0f5QOE249oPRqOEYhIGbeTo/edit)
 
-## Week 7: Typography
-
-[Slide Deck](https://docs.google.com/presentation/d/1Wkte5MuX6Nn6ai3JwudYR7772fK3moi9pGV4Im7b95E/edit?ouid=112090581299612081698&usp=slides_home&ths=true)
-
-[Watch the presentation in glorious technicolour!](https://vimeo.com/285082879)
-
 ### Useful Links for Colour Visualisation
 
  + [HSL Picker](http://hslpicker.com/#7000a8)
@@ -105,5 +99,36 @@ https://www.smashingmagazine.com/2016/11/css-grids-flexbox-box-alignment-new-lay
  + [Material UI Palette](https://www.materialpalette.com/)
  + [Adobe Colour Wheel](https://color.adobe.com/create/color-wheel/)
  + [Hailpixel](https://color.hailpixel.com/)
+
+## Week 7: Typography
+
+[Slide Deck](https://docs.google.com/presentation/d/1Wkte5MuX6Nn6ai3JwudYR7772fK3moi9pGV4Im7b95E/edit?ouid=112090581299612081698&usp=slides_home&ths=true)
+
+[Watch the presentation in glorious technicolour!](https://vimeo.com/285082879)
+
+### Useful Links for Typography
+
+https://www.justmytype.co/
+https://www.typewolf.com/
+https://thedesignteam.io/the-type-snob-f221969a884b
+https://www.imarc.com/blog/best-font-size-for-any-device
+https://www.crazyegg.com/blog/psychology-of-fonts-infographic/
+https://visual.ly/community/infographic/lifestyle/fonts-and-feelings-psychology-typography
+https://www.companyfolders.com/blog/font-psychology-how-typefaces-hack-our-brains
+https://www.creativebloq.com/typography/20-perfect-type-pairings-3132120
+
+### Free fonts!
+https://fonts.google.com/
+http://inspirationfeed.com/60-free-hipster-fonts-to-download/
+http://hipfonts.com/category/free/
+
+### Tools
+http://type-scale.com/
+https://fontpair.co/
+
+
+
+
+
 
 
