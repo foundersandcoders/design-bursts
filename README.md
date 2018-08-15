@@ -94,6 +94,7 @@ https://www.smashingmagazine.com/2016/11/css-grids-flexbox-box-alignment-new-lay
 ## Week 7: Typography
 
 [Slide Deck](https://docs.google.com/presentation/d/1Wkte5MuX6Nn6ai3JwudYR7772fK3moi9pGV4Im7b95E/edit?ouid=112090581299612081698&usp=slides_home&ths=true)
+
 [Watch the presentation in glorious technicolour!](https://vimeo.com/285082879)
 
 ### Useful Links for Colour Visualisation
