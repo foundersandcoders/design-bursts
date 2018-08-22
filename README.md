@@ -129,6 +129,9 @@ https://fontpair.co/
 
 ## Week 8: Wireframes
 
+### Show and tell
+For the last design burst we did a **Show and Tell** of best moments of design bursts and their use. Different peole volunteered to show the classroom projects from the whole 8 weeks and explain their thinking about design decision and implementation! it was awesome!!
+
 [Slide Deck](https://docs.google.com/presentation/d/1l5DCpoFwiMLNi0X4gnqqStav--XQJ7-sdLyW86zgxBc/edit?usp=sharing)
 
 
