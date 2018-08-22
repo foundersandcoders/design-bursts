@@ -127,6 +127,18 @@ http://type-scale.com/
 https://fontpair.co/
 
 
+## Week 8: Wireframes
+
+[Slide Deck](https://docs.google.com/presentation/d/1l5DCpoFwiMLNi0X4gnqqStav--XQJ7-sdLyW86zgxBc/edit?usp=sharing)
+
+
+[Watch the presentation about wireframes]()
+
+### Useful Links for Wireframes
+https://balsamiq.com/
+http://sneakpeekit.com/
+
+
 
 
 
